@@ -84,4 +84,4 @@ Nginx routes based on URL prefix:
 
 ## Author
 
-Rudra Narayan Biswal
+Ronit Thakur
